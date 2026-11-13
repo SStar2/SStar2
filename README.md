@@ -13,7 +13,9 @@ supporting data-driven oversight of how the City of Denver spends public money.
 AI Fellowship, and deepening my SQL and Python skills for audit analytics work.
 
 ---
+<img width="4032" height="733" alt="image" src="https://github.com/user-attachments/assets/b43a9a78-df56-47f7-83c7-3ed40a56b644" />
 
+---
 ## 🛠 Tech Stack
 
 **Languages:** Python, SQL, VB.NET, R, JavaScript, HTML, CSS, Excel VBA
