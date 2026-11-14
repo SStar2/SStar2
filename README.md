@@ -21,6 +21,11 @@ I'm passionate about using data and technology to solve real-world problems. My 
 
 **Currently Developing:** Machine Learning, AI Applications, Predictive Modeling, and Advanced Data Analytics
 
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,js,html,css,git,github,vscode" />
+</p>
+
 ## 🚀 Featured Projects
 
 ### [Customer Risk Scoring System](https://github.com/SStar2/Customer-Risk-Scoring-System/tree/main)
