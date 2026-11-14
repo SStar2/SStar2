@@ -63,7 +63,7 @@ at the Colorado Capitol. I care deeply about using data and advocacy together to
 real community impact.
 
 I'm also a **Career Preparation Fellow with Management Leadership for Tomorrow (MLT)** 
-and a **Girls Who Invest Online Intensive Program Scholar**.
+and an **AI Fellow with Break Through Tech**.
 
 When I'm not working with data, you can find me reading a mix of fiction and nonfiction, 
 traveling when I get the chance, or spending time with friends and family.
