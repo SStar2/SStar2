@@ -1,76 +1,50 @@
-# Hi, I'm Sophia 👋
+# Hi, I'm Sophia! 👋
 
-I'm a junior at the University of Denver studying Business Information & Analytics, 
-passionate about using data to drive meaningful decisions and create positive change. 
-Whether it's auditing city government finances, building risk scoring systems, or 
-analyzing housing markets, I'm always looking for ways to use data to make things work 
-better for real people.
+🎓 Business Information & Analytics student at the University of Denver  
+🤖 Interested in Data Science, Business Analytics, and Machine Learning  
+💻 Building practical experience through data analytics, programming, and applied AI projects
 
-Currently interning as an **Audit Analytics Intern at the Denver Auditor's Office**, 
-supporting data-driven oversight of how the City of Denver spends public money.
+I'm passionate about using data and technology to solve real-world problems. My interests include machine learning, data-driven decision-making, financial analytics, and developing software solutions. Through academic projects, professional experiences, and independent learning, I'm continuing to strengthen my technical skills and explore the intersection of business and technology.
 
-🌱 **Currently learning:** Machine learning fundamentals through Break Through Tech's 
-AI Fellowship, and deepening my SQL and Python skills for audit analytics work.
+## 💼 Experience
 
----
-## 🛠 Tech Stack
+- **Audit Analytics Intern** – Developing professional experience in audit analytics and data-driven business processes.
+- **Break Through Tech AI Fellow** – Participating in an applied AI program and collaborating on a team project focused on using AI to address real-world challenges.
 
-**Languages:** Python, SQL, VB.NET, R, JavaScript, HTML, CSS, Excel VBA
+## 🛠️ Technical Skills
 
-**Data & Analytics:** Pandas, Matplotlib, Excel (MOS Expert Certified), Tableau, SSRS
+**Programming:** Python, SQL, JavaScript, HTML, CSS, VB.NET
 
-**Databases:** SQLite, MySQL, SQL Server
+**Data & Analytics:** Pandas, Excel, Data Cleaning, Exploratory Data Analysis, Data Visualization, Statistical Analysis
 
-**Tools & Platforms:** Microsoft Power Apps, Power Automate, Visual Studio, 
-Lucidchart, Jira, Miro, Google Suite
+**Databases & Tools:** MySQL, SQLite, Microsoft Power Apps, Power Automate, Jira, Miro, GitHub
 
----
+**Currently Developing:** Machine Learning, AI Applications, Predictive Modeling, and Advanced Data Analytics
 
 ## 🚀 Featured Projects
 
 ### [Customer Risk Scoring System](https://github.com/SStar2/Customer-Risk-Scoring-System/tree/main)
-A FICO-style credit risk scoring database built to model how financial institutions 
-assess customer risk.
-- **What I built:** 8 normalized tables, a view, a user-defined function, and a stored 
-procedure with 20 rows of sample data per table. Along with 4 Windows Forms in VB.NET and 
-end-to-end SSRS reports with working risk tier and year filters
-- **Tools:** SQL, VB.NET, SSRS, Lucidchart, Visual Studio
-- **Why it matters:** Models the kind of risk assessment infrastructure used by 
-companies like FICO and Capital One to make data-driven credit decisions
+A database-driven customer risk scoring project combining SQL, VB.NET, and reporting to support customer credit risk analysis.
 
 ### [King County Housing Market Analysis](https://github.com/SStar2/King-County-Housing-Analysis)
-An exploratory data analysis of 21,000+ residential home sales in King County, WA.
-- **What I found:** Build quality grade was the strongest predictor of sale price, with top-grade homes averaged over 3x the price of the lowest-grade tier
-- **Tools:** Python, Pandas, Matplotlib, Excel
-- **Why it matters:** Demonstrates end-to-end data analysis from messy raw data to 
-clear, visual findings
+An exploratory data analysis project examining housing sales data using Python to investigate property characteristics, pricing trends, and relationships between variables.
 
----
+### Break Through Tech AI Project
+Collaborative applied AI project focused on data-driven resource allocation and reducing restrictive practices in schools.
 
-## 🏆 Awards & Certifications
+## 📊 GitHub Statistics
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SStar2&show_icons=true&hide_border=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SStar2&layout=compact&hide_border=true&theme=tokyonight)
+
+## 📜 Certifications
+
+- eCornell Machine Learning Foundations
 - Microsoft Office Specialist: Excel Expert
 - CAIA Fundamentals of Alternative Investments
-- Chancellor Scholarship, Hornbeck Scholar, Dean's List — University of Denver
 
----
+## 📫 Let's Connect!
 
-## 🌍 Beyond the Code
-
-I'm a **Youth Advisory Board Member at Young Invincibles**, where I represent Denver 
-residents in legislative meetings and policy conversations at the state level, including 
-at the Colorado Capitol. I care deeply about using data and advocacy together to create 
-real community impact.
-
-I'm also a **Career Preparation Fellow with Management Leadership for Tomorrow (MLT)** 
-and an **AI Fellow with Break Through Tech**.
-
-When I'm not working with data, you can find me reading a mix of fiction and nonfiction, 
-traveling when I get the chance, or spending time with friends and family.
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sophia-siraj/)
-- 📧 sophia.siraj@du.edu
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sophia-siraj/)
+- **Email:** sophia.siraj@du.edu
