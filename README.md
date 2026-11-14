@@ -32,11 +32,16 @@ An exploratory data analysis project examining housing sales data using Python t
 ### Break Through Tech AI Project
 Collaborative applied AI project focused on data-driven resource allocation and reducing restrictive practices in schools.
 
-## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SStar2&show_icons=true&hide_border=true&theme=tokyonight)
+## 📊 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SStar2&layout=compact&hide_border=true&theme=tokyonight)
+![GitHub followers](https://img.shields.io/github/followers/SStar2?style=flat&logo=github&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/SStar2?style=flat&logo=github&label=Total%20Stars)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 
 ## 📜 Certifications
 
