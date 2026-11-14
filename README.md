@@ -26,6 +26,15 @@ I'm passionate about using data and technology to solve real-world problems. My 
   <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,js,html,css,git,github,vscode" />
 </p>
 
+## 🎯 Current Technical Focus
+
+- **Data Science:** Data cleaning, exploratory data analysis, statistical analysis, and data visualization.
+- **Machine Learning & AI:** Predictive modeling, model evaluation, and applied AI solutions.
+- **Database Management:** SQL queries, relational database design, and data management.
+- **Software Development:** Building practical applications and automating workflows with Python and other programming tools.
+
+**Currently learning:** Advanced Python, machine learning techniques, and model evaluation.
+
 ## 🚀 Featured Projects
 
 ### [Customer Risk Scoring System](https://github.com/SStar2/Customer-Risk-Scoring-System/tree/main)
@@ -36,13 +45,6 @@ An exploratory data analysis project examining housing sales data using Python t
 
 ### Break Through Tech AI Project
 Collaborative applied AI project focused on data-driven resource allocation and reducing restrictive practices in schools.
-
-
-
-## 📈 Development Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SStar2&theme=github-compact&hide_border=true)
-
 
 ## 📜 Certifications
 
