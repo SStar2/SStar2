@@ -33,14 +33,10 @@ An exploratory data analysis project examining housing sales data using Python t
 Collaborative applied AI project focused on data-driven resource allocation and reducing restrictive practices in schools.
 
 
-## 📊 GitHub Activity
 
-![GitHub followers](https://img.shields.io/github/followers/SStar2?style=flat&logo=github&label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/SStar2?style=flat&logo=github&label=Total%20Stars)
+## 📈 Development Activity
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SStar2&theme=github-compact&hide_border=true)
 
 
 ## 📜 Certifications
